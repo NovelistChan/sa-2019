@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/njuics/sa-2019#readme",
   "dependencies": {
-    "reveal-ga": "^0.1.0",
+    "reveal-ga": "^0.2.0",
     "reveal.js": "^3.7.0",
     "reveal.js-chalkboard": "^1.0.0",
     "reveal.js-menu": "^1.2.0"
