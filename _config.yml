@@ -1,4 +1,4 @@
 theme: jekyll-theme-tactile
 
-exclude:
+include:
   - node_modules
